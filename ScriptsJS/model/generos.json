@@ -1,0 +1,23 @@
+{
+    "generos": [
+        {
+            "Nome": "Literatura de ficção científica cyberpunk",
+            "Descricao": "random description"
+        }, {
+            "Nome": "Romance",
+            "Descricao": "random description"
+        }, {
+            "Nome": "Aventura",
+            "Descricao": "random description"
+        }, {
+            "Nome": "Ficção histórica",
+            "Descricao": "random description"
+        }, {
+            "Nome": "Ensaio",
+            "Descricao": "random description"
+        }, {
+            "Nome": "Poesia",
+            "Descricao": "random description"
+        }
+    ]
+}

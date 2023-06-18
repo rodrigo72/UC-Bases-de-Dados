@@ -1,0 +1,36 @@
+{
+    "especializacao": [
+        {
+            "Género": 1,
+            "Fornecedor": 1
+        },
+        {
+            "Género": 2,
+            "Fornecedor": 2
+        },
+        {
+            "Género": 1,
+            "Fornecedor": 3
+        },
+        {
+            "Género": 2,
+            "Fornecedor": 4
+        },
+        {
+            "Género": 1,
+            "Fornecedor": 5
+        },
+        {
+            "Género": 2,
+            "Fornecedor": 6
+        },
+        {
+            "Género": 2,
+            "Fornecedor": 7
+        },
+        {
+            "Género": 1,
+            "Fornecedor": 8
+        }
+    ]
+}

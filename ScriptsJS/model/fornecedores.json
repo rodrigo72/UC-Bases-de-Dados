@@ -1,0 +1,68 @@
+{
+    "fornecedores": [
+        {
+            "Nome": "Computer",
+            "Descrição": "Optio accusamus nobis. Nostrum.",
+            "Email": "Sherry_XFranz94@nowhere.com",
+            "Telefone": "997050089",
+            "Endereço": "33 Hope Lane"
+        },
+        {
+            "Nome": "Speakmutry",
+            "Descrição": "Voluptas dicta quia. Unde!",
+            "Email": "Nance@nowhere.com",
+            "Telefone": "991330730",
+            "Endereço": "58 NW Burwood Circle"
+        },
+        {
+            "Nome": "Speakmuterridge",
+            "Descrição": "Eveniet beatae deserunt. Eum;",
+            "Email": "ShannonAbney@example.com",
+            "Telefone": "925137558",
+            "Endereço": "711 Rockwood Loop"
+        },
+        {
+            "Nome": "Reculimra",
+            "Descrição": "Modi expedita unde. Quis ut!",
+            "Email": "Celina_Cota428@example.com",
+            "Telefone": "941937332",
+            "Endereço": "1604 South Glenwood Way"
+        }, {
+            "Nome": "Tablictra",
+            "Descrição": "Eos quae consequatur. Sed fugit.",
+            "Email": "Stephens6@example.com",
+            "Telefone": "967972308",
+            "Endereço": "460 Hidden Highland Drive"
+        }, {
+            "Nome": "Processoper",
+            "Descrição": "Et autem rerum; velit et.",
+            "Email": "GainesM@nowhere.com",
+            "Telefone": "918863590",
+            "Endereço": "136 Ski Hill Loop"
+        }, {
+            "Nome": "Cleancessentor",
+            "Descrição": "Quo obcaecati voluptas; ipsam.",
+            "Email": "Aguirre@example.com",
+            "Telefone": "963230477",
+            "Endereço": "33 Town Ave"
+        }, {
+            "Nome": "Ancordplar",
+            "Descrição": "Sint aliquid soluta. Perspiciatis.",
+            "Email": "Tomlinson@nowhere.com",
+            "Telefone": "994314724",
+            "Endereço": "371 2nd Road"
+        }, {
+            "Nome": "Retectridge",
+            "Descrição": "Sit omnis impedit.Rem eos.",
+            "Email": "Lanny.Boehm592@nowhere.com",
+            "Telefone": "983919607",
+            "Endereço": "2865 Front Parkway"
+        }, {
+            "Nome": "Carttellor",
+            "Descrição": null,
+            "Email": "KylaBoehm@nowhere.com",
+            "Telefone": "998222188",
+            "Endereço": "428 Fox Hill Pkwy"
+        }
+    ]
+}

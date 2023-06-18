@@ -1,0 +1,33 @@
+{
+    "clientes": [
+        {
+            "nome": "John Doe",
+            "email": "johndoe@example.com",
+            "phone": "912056093",
+            "nif": "123456789",
+            "moradas": [
+                {
+                    "Morada de envio": "Morada envio exemplo, Cidade",
+                    "Morada de faturação": "Morada faturamento exemplo, Cidade"
+                }, {
+                    "Morada de envio": "Morada envio exemplo 2, Cidade",
+                    "Morada de faturação": "Morada faturamento exemplo 2, Cidade"
+                }
+            ]
+        }, {
+            "nome": "Richard Smith",
+            "email": "richard@example.com",
+            "phone": "913098023",
+            "nif": "123456788",
+            "moradas": [
+                {
+                    "Morada de envio": "Morada envio exemplo, Cidade",
+                    "Morada de faturação": "Morada faturamento exemplo, Cidade"
+                }, {
+                    "Morada de envio": "Morada envio exemplo 2, Cidade",
+                    "Morada de faturação": "Morada faturamento exemplo 2, Cidade"
+                }
+            ]
+        }
+    ]
+}

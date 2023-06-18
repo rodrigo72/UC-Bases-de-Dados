@@ -1,0 +1,15 @@
+{
+    "autores": [
+        {
+            "nome": "John Smith",
+            "avaliação": 4.75,
+            "biografia": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "data de nascimento": "1980-05-15"
+        }, {
+            "nome": "Jane Doe",
+            "avaliação": 3.25,
+            "biografia": "Nulla facilisi. Suspendisse eu nisl in augue rutrum fringilla.",
+            "data de nascimento": "1992-12-01"
+        }
+    ]
+}

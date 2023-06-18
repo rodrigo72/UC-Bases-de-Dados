@@ -1,0 +1,28 @@
+{
+    "reviews": [
+      {
+        "Cliente": 1,
+        "Livro": 1,
+        "Visibilidade": "Público",
+        "Conteúdo": "random",
+        "Data": "2020-01-11 19:53:00",
+        "Avaliação": "4"
+      },
+      {
+        "Cliente": 2,
+        "Livro": 1,
+        "Visibilidade": "Público",
+        "Conteúdo": "random",
+        "Data": "2023-01-10 14:25:22",
+        "Avaliação": "3"
+      },
+      {
+        "Cliente": 1,
+        "Livro": 2,
+        "Visibilidade": "Público",
+        "Conteúdo": "random",
+        "Data": "2023-01-23 12:37:02",
+        "Avaliação": "5"
+      }
+    ]
+  }

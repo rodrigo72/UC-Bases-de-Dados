@@ -1,0 +1,37 @@
+{
+    "encomendas": [
+        {
+          "Data de entrega": "2023-06-11 01:51:14",
+          "Data de envio": "2023-05-28 00:00:55",
+          "Data de pagamento": "2023-05-11 20:56:39",
+          "Método de pagamento": "PayPal",
+          "Estado": "Finalizada",
+          "Valor": 102.38,
+          "Modo de envio": "random",
+          "Cliente": 1,
+          "Código": null
+        },
+        {
+          "Data de entrega": "2023-06-11 00:00:18",
+          "Data de envio": "2023-06-04 04:05:46",
+          "Data de pagamento": "2023-05-01 00:05:20",
+          "Método de pagamento": "Transferência Bancária",
+          "Estado": "Entregue",
+          "Valor": 48.67,
+          "Modo de envio": "random",
+          "Cliente": 1,
+          "Código": null
+        },
+        {
+          "Data de entrega": "2023-06-16 11:16:52",
+          "Data de envio": "2023-06-02 00:30:21",
+          "Data de pagamento": "2023-05-01 00:01:34",
+          "Método de pagamento": "PayPal",
+          "Estado": "Enviada",
+          "Valor": 37.48,
+          "Modo de envio": "random",
+          "Cliente": 1,
+          "Código": "85CWN901I03W"
+        }
+    ]
+}

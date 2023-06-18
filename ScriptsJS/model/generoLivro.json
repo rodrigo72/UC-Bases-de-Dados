@@ -1,0 +1,20 @@
+{
+    "generoLivro": [
+        {
+            "Género": 1,
+            "Livro": 1
+        },
+        {
+            "Género": 2,
+            "Livro": 2
+        },
+        {
+            "Género": 1,
+            "Livro": 3
+        },
+        {
+            "Género": 2,
+            "Livro": 4
+        }
+    ]
+}

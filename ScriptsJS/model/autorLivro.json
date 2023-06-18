@@ -1,0 +1,20 @@
+{
+    "autorLivro": [
+        {
+            "Livro": 1,
+            "Autor": 1
+        },
+        {
+            "Livro": 2,
+            "Autor": 1
+        },
+        {
+            "Livro": 3,
+            "Autor": 2
+        },
+        {
+            "Livro": 4,
+            "Autor": 2
+        }
+    ]
+}

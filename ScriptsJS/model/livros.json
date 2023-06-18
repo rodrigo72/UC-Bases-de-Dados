@@ -1,0 +1,65 @@
+{
+    "livros": [
+        {
+            "Nº edição": 3,
+            "Sinopse": "Quaerat unde perferendis.",
+            "Data de publicação": "2021-07-17",
+            "Título": "The Tale",
+            "Preço": 9.3,
+            "ISBN": "85-853914-9-9",
+            "Formato": "Hardcover",
+            "Dimensões": "2x2x1",
+            "Nº de páginas": 1506,
+            "IVA": 31,
+            "Desconto": null,
+            "Quantidade": 32,
+            "Idioma": 2,
+            "Editora": 1
+        }, {
+            "Nº edição": 10,
+            "Sinopse": "Unde quia voluptatem",
+            "Data de publicação": "2021-07-17",
+            "Título": "The Shinning",
+            "Preço": 16.3,
+            "ISBN": "23-234914-1-1",
+            "Formato": "Hardcover",
+            "Dimensões": "1x2x1",
+            "Nº de páginas": 150,
+            "IVA": 6,
+            "Desconto": 5,
+            "Quantidade": 6,
+            "Idioma": 2,
+            "Editora": 1
+        }, {
+            "Nº edição": 21,
+            "Sinopse": "Aliquid eligendi hic. repellat.",
+            "Data de publicação": "1987-09-07",
+            "Título": "Wonderland",
+            "Preço": 26.28,
+            "ISBN": "88-323346-5-8",
+            "Formato": "Hardcover",
+            "Dimensões": "3x3x0",
+            "Nº de páginas": 197,
+            "IVA": 6,
+            "Desconto": 20,
+            "Quantidade": 37,
+            "Idioma": 1,
+            "Editora": 1
+        }, {
+            "Nº edição": 16,
+            "Sinopse": "Non fugit et sapiente impedit quis non laborum rerum. Et sint voluptatem...",
+            "Data de publicação": "1900-02-28",
+            "Título": "The Bride Gone Runner",
+            "Preço": 27.41,
+            "ISBN": "92022-40-02-7",
+            "Formato": "Paperback",
+            "Dimensões": "1x9x1",
+            "Nº de páginas": 1018,
+            "IVA": 6,
+            "Desconto": 15,
+            "Quantidade": 20,
+            "Idioma": 1,
+            "Editora": 2
+        }
+    ]
+}

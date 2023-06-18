@@ -1,0 +1,32 @@
+{
+    "fornecedorLivro": [
+        {
+            "Livro": 1,
+            "Fornecedor": 1,
+            "Valor": 250,
+            "Data": "2020-10-16",
+            "Quantidade": 32
+        },
+        {
+            "Livro": 2,
+            "Fornecedor": 2,
+            "Valor": 90,
+            "Data": "2020-10-17",
+            "Quantidade": 6
+        },
+        {
+            "Livro": 3,
+            "Fornecedor": 1,
+            "Valor": 250,
+            "Data": "2020-10-16",
+            "Quantidade": 37
+        },
+        {
+            "Livro": 4,
+            "Fornecedor": 1,
+            "Valor": 300,
+            "Data": "2020-10-16",
+            "Quantidade": 20
+        }
+    ]
+}
